@@ -7,7 +7,7 @@ Run Backend:
 
 3. npm start
 
-Run Backend:
+Run Frontend:
 
 1. first open frontend 
 
